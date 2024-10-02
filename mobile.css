@@ -1,0 +1,133 @@
+@media only screen and (max-width: 600px) {
+
+    .hero{
+        height: 350px;
+       width: 600px;
+    }
+
+    .nickname{
+        position: relative;
+        width: 100px;
+        bottom: 360px; 
+        font-size: 20px; 
+        left: 60px;
+    }
+
+    body{
+        
+        width: 100%;
+    }
+    
+    .developer{
+        height: 350px;
+    }
+
+    .hi-iam{
+        position: relative;
+        font-size: 15px; 
+        font-weight: bold;
+        top: 140px;
+        right: 50px;
+    }
+    
+    .newaz-sourav{
+        position: relative;
+        top: 140px;
+        font-size: 25px;
+        font-weight: bold;
+        right: 50px;
+    }
+    
+    .details{
+        position: relative;
+        top: 150px;
+        font-size: 15px;
+        right: 50px;
+    }
+
+    .name_img{
+        position: relative;
+        width: 300px;
+    }
+
+
+    .my_img{
+        background-image: url("picBG.png");
+        background-repeat: no-repeat;
+        width: 343px;
+        height: 270px;
+        position: absolute;
+        top: 160px;
+        left: 145px;
+      background-position-x: left;
+      background-position-y: -5;
+    }
+
+    .sourav{
+        height: 260px;
+        width: 215px;
+        position: absolute;
+        left: 95px;
+        top: 10px;
+        
+    }
+
+    .name{
+        height: 250px;
+        width: 250px;
+    }
+
+    .cv_btn{
+        position: relative;
+        right: 50px;
+        top: 170px;
+        width: 65px; 
+        height: 25px; 
+        border-radius: 12%; 
+        font-size: 5px; 
+        font-weight: bold;  
+        color: white;
+        background-color: rgb(212, 31, 31);
+    }
+
+    .call_btn{
+        position: relative;
+        right: 50px;
+        top: 170px;
+        width: 65px; 
+        height: 25px; 
+        border-radius: 12%; 
+        font-size: 5px; 
+        font-weight: bold; 
+        margin-left: 10px; 
+        border: rgb(227, 45, 13) solid;
+         background-color: rgb(251, 251, 251);
+    }
+    
+    .nav{
+    position: relative;
+    width: 200px;
+    left: 350px;
+    bottom: 390px;
+    }
+
+    .nrml_btn_nav{
+        height: 20px;
+        width: 50px;
+        font-size: 10px;
+        font-weight: bolder;
+        background: transparent;
+        outline: none;
+        border: none;
+        
+    }
+
+    .Hire_btn_nav{
+        height: 25px;
+        width: 60px;
+        font-size: 10px;
+        font-weight: bolder;
+        background-color: rgb(238, 151, 89);
+        border-radius: 15%;
+    }
+}
